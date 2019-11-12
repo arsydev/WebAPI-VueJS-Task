@@ -14,4 +14,4 @@
 
 В приложении реализованы все CRUD операции.
 
-![app](https://imgur.com/cq7kKRk)
+![app](https://i.imgur.com/cq7kKRk.png)
