@@ -14,4 +14,4 @@
 
 В приложении реализованы все CRUD операции.
 
-![alt text](file:///C:/Users/arsty/Pictures/1.png)
+![app](https://imgur.com/cq7kKRk)
